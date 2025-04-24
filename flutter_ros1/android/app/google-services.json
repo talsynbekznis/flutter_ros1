@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461284927327",
+    "project_id": "crypto-list-app-d5d20",
+    "storage_bucket": "crypto-list-app-d5d20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461284927327:android:bbdc1542ec54f1f14438ea",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ros1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr-yd92n0yy8iUFP00m-Q0pzfkmuMqcWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
